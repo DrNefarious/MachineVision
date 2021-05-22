@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+#This program was written with help from the article "Image classification from scratch" by the author fchollet
 
 import tensorflow as tf
 from tensorflow import keras
